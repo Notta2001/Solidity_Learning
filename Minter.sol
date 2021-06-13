@@ -1,6 +1,6 @@
 pragma solidity ^0.5.9;
 
-contract Coin {
+contract Coin  {
     // The keyword "public" makes those variables
     // readable from outside.
     address public minter;
